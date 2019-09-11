@@ -1,0 +1,32 @@
+h1{
+    text-align: center;
+    color: gold;
+    text-decoration-line: overline;
+    text-decoration-color: aqua
+}
+body{
+    background-image: url(scene.jfif);
+}
+.work{
+    text-align: left;
+    color: gray;
+    font-size: 25px;
+}
+#work1{
+ background-color: aqua   
+}
+#work2{
+    background-color: beige;
+}
+#work3{
+    background-color: chartreuse;
+}
+#work4{
+    background-color: aliceblue;
+}
+#work5{
+    background-color: cornsilk
+}
+a:hover{
+    background-color: gold;
+}
